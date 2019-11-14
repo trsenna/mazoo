@@ -18,7 +18,7 @@ define( 'MAZOO_PLUGIN_FILE', __FILE__ );
 define( 'MAZOO_PLUGIN_VERSION', get_file_data( __FILE__, [ 'Version' ] )[ 0 ] );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -32,7 +32,7 @@ add_action( 'mazoo/autoload/loader', function ( \Composer\Autoload\ClassLoader $
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -46,7 +46,7 @@ add_action( 'mazoo/autoload', function () {
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -62,7 +62,7 @@ add_action( 'mazoo/autoload', function () {
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -79,7 +79,7 @@ add_action( 'mazoo/autoload', function () {
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
